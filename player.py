@@ -1,7 +1,7 @@
 from settings import *
 import pygame as pg
 import math
-
+#1
 
 class Player:
     def __init__(self, game):
